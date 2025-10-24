@@ -1,0 +1,1 @@
+pada single thread kinerjanya lambat jika banyak client karena hanya bisa memproses 1 client/ request pada Waktu yang bersamaan, pada multi thread karena dia bisa berjalan secara parallel atau bersamaan maka Ketika dia punya banyak request dia lebih cepat
